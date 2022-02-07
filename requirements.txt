@@ -1,0 +1,4 @@
+discord
+asyncpraw
+ConfigParser
+asyncpg
